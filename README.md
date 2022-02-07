@@ -1,1 +1,2 @@
-# Monte-Carlo-simulation.-The-Ising-model.
+# Monte-Carlo-simulation.Ising-model.
+We studied the order-disorder transition at a critical temperature in the Ising model by exploring the magnetization per site and specific heat at various temperatures. A 2-D L × L Ising model with periodic boundary conditions was used.  Code contains differents independents simulations. You will get two files (termalizacion) to check stabilization and (output.txt) to plot magnetization, heat capacity, etc.
